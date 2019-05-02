@@ -8,7 +8,7 @@ The information contained in this repo is open for everyone. However, each indiv
 
 We recommend checking the official page for a list of journal abbreviations available at our [official page](https://abbreviation.legalrepository.org/).
 
-For **advanced users**, you can check our official raw CSV file containing the list of abbreviations.
+For **advanced users**, you can check our [official raw CSV file](law-review-abbreviations.csv) containing the list of abbreviations.
 
 ## Contribution
 
@@ -26,7 +26,7 @@ This part is easy. Simply click the fork icon and let all of the hard work happe
 
 ### Go to your Repo
 
-All you need to do is make changes to the CSV file. You can simply click the link and reach the document.
+All you need to do is make changes to the [CSV file](law-review-abbreviations.csv). You can simply click the [link](law-review-abbreviations.csv) and reach the document.
 
 ### Insert your Data
 
@@ -37,7 +37,7 @@ You then need to arrange the information as follows:
 Journal Name, Abbreviation, URL
 ```
 
-Please note that the `,` are very important and without them it would not be possible to complete the entry.
+Please note that the `,` are **very important** and without them it would not be possible to complete the entry.
 
 Place your journal's information between those entries that alphabetically proceed and succeed your journal.
 
