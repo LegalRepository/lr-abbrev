@@ -20,11 +20,38 @@ If any editor or member of a journal wishes to make a modification to the list p
 
 To update the information contained within this repo please follow these steps.
 
+### Fork the Repo
 
+This part is easy. Simply click the fork icon and let all of the hard work happen by itself.
+
+### Go to your Repo
+
+All you need to do is make changes to the CSV file. You can simply click the link and reach the document.
+
+### Insert your Data
+
+Then you need to make an update to the document. You essentially need to have three pieces of information ready – the name of the journal, its abbreviation, and its URL (to its website).
+
+You then need to arrange the information as follows:
+```
+Journal Name, Abbreviation, URL
+```
+
+Please note that the `,` are very important and without them it would not be possible to complete the entry.
+
+Place your journal's information between those entries that alphabetically proceed and succeed your journal.
+
+Simply complete by committing your data.
+
+### Create a Push Request
+
+With that create a push request and we will take care of the rest.
+
+Thank you for contributing!
 
 ## Miscellaneous
 
 For further information please refer to the following:
 1. [Disclaimer](info\disclaimer.md)
-2. Licensing
-3. Warranties
+2. [Licensing](info\licensing.md)
+3. [Warranties](info\warranties.md)
