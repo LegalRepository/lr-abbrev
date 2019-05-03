@@ -5,21 +5,26 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "css": "node style.js"
   },
   "repository": {
     "type": "git",
-    "url": "gg"
+    "url": "https://github.com/LegalRepository/lr-abbrev"
   },
   "keywords": [
-    "t",
-    "hgf"
+    "abbreviations",
+    "legal"
   ],
   "author": "Srivats Shankar",
   "license": "MIT",
   "dependencies": {
+    "csv-validator": "0.0.3",
     "csvtojson": "^2.0.8",
     "node-json2html": "^1.2.0",
     "write": "^1.0.3"
+  },
+  "devDependencies": {
+    "clean-css": "^4.2.1"
   }
 }
